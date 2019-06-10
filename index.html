@@ -9,8 +9,12 @@
     <link href="https://fonts.googleapis.com/css?family=Archivo+Black|Tinos&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/styles.css">
+    <script src="https://code.jquery.com/jquery-3.4.1.js"
+  integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+  crossorigin="anonymous"></script>
+  <script src="js/scripts.js"></script>
+  <!-- <SCript src="js/jquery-3.4.1.js"></SCript> -->
 
-    <!-- <script src="../js/scripts.js"></script> -->
     <title>Delani Studio</title>
 </head>
 
@@ -21,7 +25,7 @@
             <h1>WELCOME</h1>
             <h1>TO DELANI STUDIO</h1>
             <p>Amazing people are making amazing designs in a fun environment.</p>
-            <a href="#we"></a><img id="mouse" src="assets/mouse_click.png">
+            <a href="#we"><img id="mouse" src="assets/mouse_click.png"></a>
         </div>
         <section id="aboutUs" class="container">
             <div>
@@ -144,15 +148,15 @@
         </section>
         <div id="contact">
             <h2>CONTACT US</h2>
-            <form action="">
+            <form action="get" id="userInputs">
                 <input type="text" id="fName" name="firstname" placeholder="name"="Name">
                 <input type="text" name="email" placeholder="Email"><br><br>
                 <textarea name="name" rows="8" cols="60" placeholder="input your text here"></textarea><br>
-                <input type="submit" id="submit" value="submit">
+                <input type="submit" class="btn block btn-primary" value="submit">
             </form>
         </div>
 
-        <div id="social">>>
+        <div id="social">
             <img src="assets/social_icons/behance.png" alt="behance">
             <img src="assets/social_icons/dribble.png" alt="dribble">
             <img src="assets/social_icons/facebook.png" alt="facebook">
@@ -168,8 +172,7 @@
         <p>DELANI STUDIO</p>
         <p>2019</p>
 
-        <script src="js/scripts.js"></script>
-        <SCript src="js/jquery-3.4.1.js"></SCript>
+       
 
 </body>
 
