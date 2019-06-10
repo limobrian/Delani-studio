@@ -1,6 +1,7 @@
-body{
+body {
     font-size: large;
 }
+
 #imagehead {
     background-image: url('/home/brian/Documents/limooh/IP3/assets/backgrounds/h_img.jpg');
     background-position: center;
@@ -8,33 +9,40 @@ body{
     background-repeat: no-repeat;
     color: white;
     margin-bottom: 5%;
-
-
+    text-align: center;
+    space-
 }
 
 h1 {
     text-align: center;
+
+    font-family: 'Archivo Black', sans-serif;
 }
 
 h2 {
     text-align: center;
+
+    font-family: 'Archivo Black', sans-serif;
 }
 
 p {
     text-align: center;
-    font-size: 15px;
+    font-family: 'Tinos', serif
 }
 
 #logo {
     margin-left: 50%;
     margin-top: 8%;
     margin-bottom: 5%;
+    text-align: center;
 }
 
 #mouse {
     margin-left: 50%;
     margin-top: 8%;
     margin-bottom: 5%;
+    position: center;
+
 }
 
 h3 {
@@ -123,11 +131,13 @@ form input[type=submit]:hover {
     margin-left: 20%;
     margin-top: 5%;
     margin-bottom: 5%;
+    padding-right: 3%;
+    padding-left: 3%;
 
 
 }
 
-.design-hidden {
+/**.design-hidden {
     display: none;
 }
 
@@ -137,7 +147,7 @@ form input[type=submit]:hover {
 
 .product-hidden {
     display: none;
-}
+}**/
 
 .col-md-3:hover {
     opacity: 0.3;
@@ -163,17 +173,21 @@ form input[type=submit]:hover {
     margin-bottom: 5%;
 
 }
-#we{
+
+#we {
     margin-top: 5%;
     margin-bottom: 5%;
 
 }
-#left{
-margin-left:25%; 
-}
-#mid{
+
+#left {
     margin-left: 25%;
 }
-#right{
+
+#mid {
+    margin-left: 25%;
+}
+
+#right {
     margin-left: 25%;
 }
