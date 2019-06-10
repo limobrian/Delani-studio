@@ -64,7 +64,7 @@ h3 {
 }
 
 #contact {
-    background-image: url('/home/brian/Documents/limooh/IP3/image/c_image.jpg');
+    background-image: url('c_image.jpg');
     padding: 20px 5px;
     color: white;
     background-image: cover;
