@@ -1,5 +1,8 @@
+
+    
 body {
-    font-size: large;
+    margin: 2px;
+    
 }
 
 #imagehead {
@@ -10,7 +13,7 @@ body {
     color: white;
     margin-bottom: 5%;
     text-align: center;
-    space-
+    width: 100%;
 }
 
 h1 {
@@ -56,6 +59,7 @@ h3 {
 #services {
     background-image: url('../assets/backgrounds/s_image.jpg');
     background-position: center;
+    background-size: 140%, 140%;
     color: white;
     background-size: cover;
     padding: 100px 10%;
@@ -67,6 +71,7 @@ h3 {
 #contact {
     background-image: url('../assets/backgrounds/c_image.jpg');
     padding: 20px 5px;
+    background-size: 140%, 140%;
     color: white;
     background-image: cover;
     text-align: center;
@@ -132,26 +137,16 @@ form input[type=submit]:hover {
     width: 100%;
     color: white;
     text-align: center;
-    margin-left: 20%;
+    
     margin-top: 5%;
     margin-bottom: 5%;
     padding-right: 3%;
     padding-left: 3%;
+    justify-content: space-around; 
 
 
 }
 
-/**.design-hidden {
-    display: none;
-}
-
-.development-hidden {
-    display: none;
-}
-
-.product-hidden {
-    display: none;
-}**/
 
 .col-md-3:hover {
     opacity: 0.3;
@@ -182,7 +177,4 @@ form input[type=submit]:hover {
     margin-top: 5%;
     margin-bottom: 5%;
 
-}
-#fname{
-    
 }
