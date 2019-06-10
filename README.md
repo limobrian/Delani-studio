@@ -1,30 +1,50 @@
 
-# DELANI- STUDIO
+# Delani Studio
 
-## Description
+a project that test what have been learning the whole week
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites
+Once downloaded it starts functioning immediately
+
+### Installing
+After installing it works by feeding in the information you have ,let say sending a messsage to afriend you will recieve a feedback thanking you.
+
+## Running the tests
+
+Type in some text and its good to go.
 
 
 
+### And coding style tests
+like when you enter a value you get a thank you text else it tells you to enter a value.
+
+Html, Javascipt and jQuery
+
+
+## Versioning
+
+Is up todate
+
+## Authors
+
+* limooh brian
 
 ## Setup/Installation Requirements
-* Git clone this https://github.com/limobrian/Triangele-tracker.git
+* Git clone using this link https://github.com/limobrian/Delani-studio.git
 * cd Triangle-tracker
 * Open index.html from a browser
 
 ## BDD
-*  if the the number you have eneterred is less than or equal to 0 check your values
-* on Equilateral triangle all sides are equal
-* when you add two sides and it is less or equal it will not be a triangle
- * on An isosceles triangle 2 sides are equal
- * on scalene triangle all side are not equal
  
 
-## author
- limooh brian
 
  ## link to live site on GitHub Pages
 
-This is the https://limobrian.github.io/Triangle-tracker/
+This is the  https://limobrian.github.io/Delani-studio/
 
 ## Technologies Used
 * javascript
