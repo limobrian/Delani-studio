@@ -1,5 +1,20 @@
+/*$(document).ready(function () {
+  $(".tog1").click(function () {
+    $(".cont1").toggle();
+  });
+});
 $(document).ready(function () {
-
+  $(".clickondevelopment").click(function () {
+    $(".development-hidden").toggle();
+    $(".development-showing").toggle();
+  });
+});
+$(document).ready(function () {
+  $(".clickonproduct").click(function () {
+    $(".product-hidden").toggle();
+    $(".product-showing").toggle();
+  });
+});**/
 
 /** forms */
 $("#submission").submit(function (event) {
@@ -16,4 +31,12 @@ if (data_1 && data_2 != "") {
 event.preventDefault();
 });
 
+});
+//TOGGLE
+$('.cont1').hide()
+$('#tog1').click(function(){
+ $('.cont1').toggle();
+ $('.cont1').click(function(){
+   $('#tog1').toggle();
+ });
 });
