@@ -19,12 +19,6 @@ Type in some text and its good to go.
 
 
 
-### And coding style tests
-like when you enter a value you get a thank you text else it tells you to enter a value.
-
-Html, Javascipt and jQuery
-
-
 ## Versioning
 
 Is up todate
@@ -39,7 +33,11 @@ Is up todate
 * Open index.html from a browser
 
 ## BDD
- 
+ * this is a project to practices this week work
+ * on input from i have js 
+ * i have togglre for jquery
+ * the wall webpage is design using boostrap,css and html
+* 
 
 
  ## link to live site on GitHub Pages
@@ -51,6 +49,7 @@ This is the  https://limobrian.github.io/Delani-studio/
 * html
 * css
 * Bootstrap
+* jquery
 
 ## Support and contact details
 Contact me at,
