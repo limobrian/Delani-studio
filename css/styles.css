@@ -24,7 +24,8 @@ h2 {
 
     font-family: 'Archivo Black', sans-serif;
 }
-h3{
+
+h3 {
     font-family: 'Archivo Black', sans-serif;
 }
 
@@ -34,14 +35,14 @@ p {
 }
 
 #logo {
-    margin-left: 50%;
+    margin-left: 25%%;
     margin-top: 8%;
     margin-bottom: 5%;
     text-align: center;
 }
 
 #mouse {
-    margin-left: 50%;
+    margin-left: 25%%;
     margin-top: 8%;
     margin-bottom: 5%;
     position: center;
@@ -182,15 +183,6 @@ form input[type=submit]:hover {
     margin-bottom: 5%;
 
 }
-
-#left {
-    margin-left: 25%;
-}
-
-#mid {
-    margin-left: 25%;
-}
-
-#right {
-    margin-left: 25%;
+#fname{
+    
 }
