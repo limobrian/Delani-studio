@@ -30,11 +30,6 @@ Type in some text and its good to go.
 
 Is up todate
 
-## Authors
-
-* limooh brian
-
-
 
 ## BDD
  * this is a project to practices this week work
