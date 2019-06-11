@@ -3,9 +3,16 @@
 
 a project that test what have been learning the whole week
 
-## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## Authors
+
+* limooh brian
+
+
+## Setup/Installation Requirements
+* Git clone using this link https://github.com/limobrian/Delani-studio.git
+* cd Delani-studio
+* Open index.html from a browser
 
 ### Prerequisites
 Once downloaded it starts functioning immediately
@@ -27,15 +34,12 @@ Is up todate
 
 * limooh brian
 
-## Setup/Installation Requirements
-* Git clone using this link https://github.com/limobrian/Delani-studio.git
-* cd Triangle-tracker
-* Open index.html from a browser
+
 
 ## BDD
  * this is a project to practices this week work
- * on input from i have js 
- * i have togglre for jquery
+ * on input from i have used js 
+ * i have used toggle for jquery
  * the wall webpage is design using boostrap,css and html
 * 
 
