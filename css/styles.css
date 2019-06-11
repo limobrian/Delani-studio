@@ -188,7 +188,7 @@ bottom:30px;
 }
 
 .col-md-3:hover .hov {
-    opacity: 1;
+    opacity: 0.3;
 }
 
 .col-md-3:hover .hov Before .col-md-3:hover .hov:after {
@@ -230,4 +230,27 @@ bottom:30px;
     margin-top: 5%;
     margin-bottom: 5%;
 
+}
+@media only screen and (max-width: 1024px) {
+   .sis{
+    font-size: 78%;
+
+  }
+  #logo{
+      height: 15%;
+      width: 15%
+  }
+  #red{
+    height: 9%;
+    width: 9%
+  }
+  h1{
+    font-size: 78%;
+  }
+  h2{
+    font-size: 78%;
+  }
+  h3{
+    font-size: 78%;
+  }
 }
