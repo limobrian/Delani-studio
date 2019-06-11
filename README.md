@@ -52,7 +52,7 @@ This is the  https://limobrian.github.io/Delani-studio/
 
 ## Support and contact details
 Contact me at,
-Email:limobrian290@gamil.com
+Email:limobrian290@gmail.com
 
 
 ### License
